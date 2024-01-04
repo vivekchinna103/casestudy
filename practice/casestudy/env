@@ -13,4 +13,3 @@ DATA_SOURCE_NAME="dlsqldata"
 DB_CONN_STR="Server=tcp:case-study-poc.database.windows.net,1433;Initial Catalog=case-study-db;Persist Security Info=False;User ID=dbadmin;Password=db@admin12345;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;"
 TABLE_NAME="case_studies"
 INDEX_1='azureblob-index1'
-new="new"
